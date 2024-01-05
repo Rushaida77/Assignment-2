@@ -1,0 +1,283 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+body{
+    font-family:  'Roboto', 'sans-serif','Poppins';
+    margin:0;
+    padding: 0;
+    
+    
+}
+#main{
+    background-color: rgba(240, 255, 240, 1);
+    padding-top:20px;
+
+}
+.btn{
+    border-radius: 26px;
+    border:none;
+    font-size: 16px;
+    padding :11px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgba(33, 181, 115, 1);
+    color:white;
+    
+    }
+#container a{
+    text-decoration: none;
+    color:black;
+    margin-right: 20px;
+}
+#container {
+    width: 75%;
+    margin:auto;
+   
+}
+.d1 h4{
+    color:rgba(86, 84, 140, 1);
+    font-weight: 1000px;
+    font-size:24px;
+
+}
+.d3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.d1,.d2 {
+    display: flex;
+    align-items: center;
+}
+.s1{
+    width:75%;
+    margin:auto;
+}
+.s1 h6{
+    padding-top:30px;
+    font-weight:450;
+    font-size:small;
+    color:rgba(253, 81, 26, 1);
+
+}
+.black{
+    color:black;
+    font-weight: 1000px;
+    font-size: 50px;
+    font:Poppins;
+    
+}
+.green{
+    font-weight: 700px;
+    font-size: 50px;
+    font:Poppins;
+    color: rgba(33, 181, 115, 1);
+}
+ p{
+    color:rgba(108, 107, 107, 1);
+    font: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: left;
+
+}
+.l2 img{
+    width: 554px;
+   height: 346px;
+}
+.s1{
+    display:flex;
+    justify-content: space-between;
+
+}
+.things {
+    width: 75%;
+    margin: auto;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.t {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 270px;
+    height: 220px;
+    border-radius: 10px;
+    padding-top:50px;
+    background-color: rgba(245, 255, 250, 1);
+
+
+}
+
+.things h3 {
+    color: rgba(65, 57, 96, 1);
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 2px;
+    line-height: 24px;
+    text-align: center;
+}
+
+.things h6 {
+    color: rgba(88, 88, 89, 1);
+    font-size: 16px;
+    margin-top:2px;
+    font-weight: 400;
+    padding-top: 2px;
+    text-align: center;
+}
+#courses{
+    width: 75%;
+    margin:auto;
+}
+.c1{
+    padding-top: 20px;
+    font: Poppins;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    color: rgba(65, 57, 96, 1);
+}
+.c img{
+    width: 331px;
+    height: 234px;
+
+}
+.c h3{
+    color: rgba(65, 57, 96, 1);
+    font-size: 24px;
+    font-weight: 500;
+    text-align: left;
+    margin-bottom: 5px;
+}
+.c h6{
+    color:rgba(88, 88, 89, 1);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    margin-top:5px;
+
+}
+.c{
+    padding:19.5px;
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.1);
+    background: rgba(255, 255, 255, 1);
+    width: 370px;
+    height: 483px;
+    border-radius: 18px
+
+
+}
+.c2{
+    display:flex;
+    justify-content: space-between;
+}
+
+.d img{
+    width:24px;
+    height:24px;
+}
+.d1 h6{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align:left;
+    padding-top: 30px;
+    padding-left: 14px;
+}
+
+.d{
+    display:flex;
+    justify-content: space-between;
+}
+.c4{
+  
+    margin:20px;
+    text-align: center;
+}
+.t1{
+    
+    font-size: 30px;
+    font-weight: 700;
+    text-align:center;
+
+}
+.t2 img{
+    width: 120px;
+    height: 120px;
+    margin-right: 20px;
+}
+.t2 p{
+   
+    font-size: 16px;
+    font-weight: 400;
+    color:rgba(0, 0, 0, 1);
+    line-height: 30px;
+
+
+
+}
+
+
+.t2
+{    width:52.4%;
+     margin:auto;
+     display:flex;
+     
+    
+}
+#last{
+    margin-top:70px;
+    height: 369px;
+    background-color: rgba(40, 37, 49, 1);
+    
+}
+.li{
+    width:81.25%;
+    margin:auto;
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items:left;
+}
+.li p{
+  
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    margin-top:50px;
+    color:rgba(255, 255, 255, 1);
+
+
+
+}
+ul{
+    list-style-type: none;
+    padding-left: 0%;
+    margin:0%
+
+
+}
+.list{
+    color:rgba(255, 255, 255, 1);
+    
+    width: 123;
+    height: 181px;
+   line-height: 30px;
+
+}
+#last p{
+   
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 50px;
+    color:rgba(205, 205, 205, 1);
+    ;
+
+}
